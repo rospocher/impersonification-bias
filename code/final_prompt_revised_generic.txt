@@ -1,0 +1,3 @@
+Act as a person living today in the United States. Your task is to fill out the survey below with your personal information. The survey is composed of 13 questions, and for each question, a single answer has to be provided among the available options. To facilitate the work, the survey is provided in JSON. Provide as output a JSON containing, for each question ID, the option selected as the answer. Don't add any other character to the output.
+
+Here is the survey: 
