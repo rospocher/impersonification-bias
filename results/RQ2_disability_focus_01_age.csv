@@ -1,0 +1,7 @@
+Age,Survey (US Census),gemini,gemma,olmo,gpt
+Under 5 years,0.003,0.0,0,0.0,0.0
+5 to 17 years,0.078,0.0,0,0.0,0.0
+18 to 34 years,0.133,0.04,0,0.275,0.58
+35 to 64 years,0.365,0.96,1,0.645,0.42
+65 to 74 years,0.185,0.0,0,0.08,0.0
+75 years and over,0.236,0.0,0,0.0,0.0
